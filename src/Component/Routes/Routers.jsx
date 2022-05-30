@@ -7,7 +7,7 @@ function Routers() {
   return (
     <>
       <Routes>
-        <Route exact path="/My-Portfolio" element={<LandingPage />} />
+        <Route exact path="/" element={<LandingPage />} />
         <Route exact path="/projects" element={<ProjectPage />} />
         <Route exact path="/Contact" element={<ContactPage />} />
       </Routes>
