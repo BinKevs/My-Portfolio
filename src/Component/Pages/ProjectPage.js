@@ -515,14 +515,14 @@ const ProjectPage = () => {
                 </p>
                 <div className="flex items-center flex-wrap space-x-5">
                   <a
-                    href="https://github.com/BinKevs/mini_project_simple_weather_app"
+                    href="https://binkevs.github.io/mini_project_simple_weather_app/"
                     target="_blank"
                     className="border-2 border-white hover:scale-105  px-4 py-2 rounded-2xl text-white text-xl"
                   >
                     Website
                   </a>
                   <a
-                    href="https://binkevs.github.io/mini_project_simple_weather_app/"
+                    href="https://github.com/BinKevs/mini_project_simple_weather_app"
                     target="_blank"
                     className="border-2 border-white hover:scale-105  px-4 py-2 rounded-2xl text-white text-xl"
                   >
