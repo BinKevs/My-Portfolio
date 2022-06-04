@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/My-Portfolio/static/css/main.8c64635b.css",
-    "main.js": "/My-Portfolio/static/js/main.5c598634.js",
+    "main.js": "/My-Portfolio/static/js/main.2001cd6f.js",
     "static/js/787.99f8c6aa.chunk.js": "/My-Portfolio/static/js/787.99f8c6aa.chunk.js",
     "static/media/fa-duotone-900.svg": "/My-Portfolio/static/media/fa-duotone-900.1608cc68ed95bdab3e23.svg",
     "static/media/fa-light-300.svg": "/My-Portfolio/static/media/fa-light-300.9854c36138c2880f36f0.svg",
     "static/media/fa-regular-400.svg": "/My-Portfolio/static/media/fa-regular-400.0918417c8847dc929625.svg",
     "static/media/fa-solid-900.svg": "/My-Portfolio/static/media/fa-solid-900.49819e9c7564110f4b04.svg",
-    "static/media/RESUME_BUENASEDA_KEVIN_BRYAN.pdf": "/My-Portfolio/static/media/RESUME_BUENASEDA_KEVIN_BRYAN.ddb560f26d6ed377c246.pdf",
+    "static/media/RESUME_BUENASEDA_KEVIN_BRYAN.pdf": "/My-Portfolio/static/media/RESUME_BUENASEDA_KEVIN_BRYAN.4d06a271041ca1351664.pdf",
     "static/media/fa-brands-400.svg": "/My-Portfolio/static/media/fa-brands-400.be027a977050ea00685a.svg",
     "static/media/fa-duotone-900.eot": "/My-Portfolio/static/media/fa-duotone-900.e6df3ccd2c18fa4aa999.eot",
     "static/media/fa-duotone-900.ttf": "/My-Portfolio/static/media/fa-duotone-900.e4227bedad83d59656b4.ttf",
@@ -46,11 +46,11 @@
     "static/media/Avatar-8.png": "/My-Portfolio/static/media/Avatar-8.137dbff7a9652d9baf7c.png",
     "index.html": "/My-Portfolio/index.html",
     "main.8c64635b.css.map": "/My-Portfolio/static/css/main.8c64635b.css.map",
-    "main.5c598634.js.map": "/My-Portfolio/static/js/main.5c598634.js.map",
+    "main.2001cd6f.js.map": "/My-Portfolio/static/js/main.2001cd6f.js.map",
     "787.99f8c6aa.chunk.js.map": "/My-Portfolio/static/js/787.99f8c6aa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8c64635b.css",
-    "static/js/main.5c598634.js"
+    "static/js/main.2001cd6f.js"
   ]
 }
