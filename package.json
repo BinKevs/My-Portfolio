@@ -1,5 +1,6 @@
 {
   "name": "webiste_portfolio",
+  "homepage": "https://binkevs.github.io/MyPortfolio/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
